@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on SQL project
 - 🌱 I’m currently learning data analytics
 - 👯 I’m looking to collaborate on SQL projects
 - 💬 Ask me about Python | R | SQL | Excel | Tableau

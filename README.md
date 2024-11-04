@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning data analysis
 - 👯 I’m looking to collaborate on data analysis projects
 - 💬 Ask me about Python | SQL | R
 - 📫 Reach Me on LinkedIn
